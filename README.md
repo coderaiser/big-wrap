@@ -15,7 +15,7 @@ const bigWrap = require('big-wrap');
 
 bigWrap([9, 10, 3, 4]);
 // returns
-[1, 0, 0, 2, 3, 4];
+[1, 0, 0, 3, 4];
 ```
 
 ## Environments

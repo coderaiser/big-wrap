@@ -1,6 +1,6 @@
 {
   "name": "big-wrap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "wrap array representation of big numbers",
   "main": "lib/big-wrap.js",
   "scripts": {
